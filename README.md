@@ -87,21 +87,21 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 😄"
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Frostt-Dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Frostt-Dev&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Frostt-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Frostt-Dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br />
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frostt-Dev&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=c9d1d9&layout=compact&langs_count=8" alt="Top Languages" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frostt-Dev&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 </div>
 
 <br />
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Frostt-Dev&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Frostt-Dev&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
